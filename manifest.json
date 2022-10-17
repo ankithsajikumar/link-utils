@@ -1,0 +1,19 @@
+{
+    "name": "Link utils",
+    "description": "A browser action to play around with urls.",
+    "version": "0.01",
+    "author": "ankit",
+    "manifest_version": 3,
+    "icons": {
+      "64":"link.png"
+    },
+    "action": {
+      "default_title": "Link utils",
+      "default_icon": "link.png",
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "tabs"
+    ],
+    "incognito":  "split"
+  }

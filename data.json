@@ -1,0 +1,4 @@
+{
+    "locales":["us/en", "gb/en", "de/de", "us/es", "fr/fr", "cn/zh", "nl/nl", "ru/ru", "it/it", "jp/ja", "ae/ar", "kr/ko", "pt/pt", "tr/tr", "tw/zh", "id/in", "th/th", "vn/vi", "pl/pl", "br/pt"],
+    "devLocales":["en_US", "en_GB", "de_DE", "es_US", "fr_FR", "zh_CN", "nl_NL", "ru_RU", "it_IT", "ja_JP", "ar_AE", "ko_KR", "pt_PT", "tr_TR", "zh_TW", "in_ID", "th_TH", "vi_VN", "pl_PL", "pt_BR"]
+}

@@ -1,0 +1,23 @@
+<html>
+<head>
+    <link rel="stylesheet" href="popup.css">
+    <script defer src="libs/jQuery.min.js"></script>
+    <script defer src="popup.js"></script>
+</head>
+<body>
+    <header>
+        <img src="./link.png" alt="logo" class="main-logo">
+        <h4 class="main-title">Link <span>utils</span></h4>
+    </header>
+    <div id="content">
+        <ul class="tab-list">
+            <li class="tab-list-item active" id="locale-tab" data-tab-target="#locales">Locales</li>
+            <li class="tab-list-item" id="aem-tab" data-tab-target="#aem">AEM</li>
+        </ul>
+        <div class="tab-content">
+            <div id="locales" class="locales active" data-tab-content data-count= 0 ></div>
+            <div id="aem" class="util-links" data-tab-content ></div>
+        </div>
+    </div>
+</body>
+</html>
